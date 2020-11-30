@@ -3,3 +3,7 @@ model
 .vscode
 transformers-nlp
 .idea
+lightning_logs
+
+PyTorch-Lightning-Fine-Tuning/News-Classification-Lightning/src/TransformerModel/__pycache__
+PyTorch-Lightning-Fine-Tuning/News-Classification-Lightning/src/dataset/__pycache__
